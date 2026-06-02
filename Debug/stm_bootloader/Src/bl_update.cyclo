@@ -1,0 +1,3 @@
+../Drivers/CMSIS/Include/core_cm3.h:1762:34:__NVIC_SystemReset	1
+../stm_bootloader/Src/bl_update.c:21:13:UART_FlushRx	2
+../stm_bootloader/Src/bl_update.c:32:6:UART_Firmware_Update	12

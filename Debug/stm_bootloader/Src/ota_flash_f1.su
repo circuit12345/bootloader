@@ -1,0 +1,5 @@
+../stm_bootloader/Src/ota_flash_f1.c:15:17:AlignDown	16	static
+../stm_bootloader/Src/ota_flash_f1.c:20:17:AlignUp	16	static
+../stm_bootloader/Src/ota_flash_f1.c:25:6:OTA_Flash_Program	40	static
+../stm_bootloader/Src/ota_flash_f1.c:58:6:OTA_Flash_EraseRegion	56	static
+../stm_bootloader/Src/ota_flash_f1.c:94:6:OTA_Flash_WriteHeader	16	static

@@ -1,0 +1,6 @@
+../stm_bootloader/Src/bl_uart.c:17:21:BL_UART_GetHandle	1
+../stm_bootloader/Src/bl_uart.c:22:11:BL_UART_Read_WithTimeout	4
+../stm_bootloader/Src/bl_uart.c:61:6:BL_UART_Init	1
+../stm_bootloader/Src/bl_uart.c:76:9:BL_UART_Read	1
+../stm_bootloader/Src/bl_uart.c:80:6:BL_UART_Read_Blocking	3
+../stm_bootloader/Src/bl_uart.c:106:6:BL_UART_Write	1
