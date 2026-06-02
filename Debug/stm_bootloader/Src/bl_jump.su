@@ -1,0 +1,1 @@
+../stm_bootloader/Src/bl_jump.c:14:6:JumpToApplication	40	static,ignoring_inline_asm

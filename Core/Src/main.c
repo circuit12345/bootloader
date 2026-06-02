@@ -21,6 +21,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
+#include "ota.h"
 
 /* USER CODE END Includes */
 
@@ -93,7 +94,7 @@ int main(void)
   MX_USART1_UART_Init();
   MX_USART3_UART_Init();
   /* USER CODE BEGIN 2 */
-
+  boot(&huart3);
   /* USER CODE END 2 */
 
   /* Infinite loop */

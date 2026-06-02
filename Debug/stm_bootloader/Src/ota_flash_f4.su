@@ -1,0 +1,4 @@
+../stm_bootloader/Src/ota_flash_f4.c:48:13:Flash_FindSectorForAddress	32	static
+../stm_bootloader/Src/ota_flash_f4.c:64:6:OTA_Flash_Program	40	static
+../stm_bootloader/Src/ota_flash_f4.c:97:6:OTA_Flash_EraseRegion	64	static
+../stm_bootloader/Src/ota_flash_f4.c:151:6:OTA_Flash_WriteHeader	16	static

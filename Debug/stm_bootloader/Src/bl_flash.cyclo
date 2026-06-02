@@ -1,0 +1,10 @@
+../stm_bootloader/Src/bl_flash.c:16:20:OTA_DisableIRQ	1
+../stm_bootloader/Src/bl_flash.c:21:20:OTA_EnableIRQ	1
+../stm_bootloader/Src/bl_flash.c:26:17:AlignDown	1
+../stm_bootloader/Src/bl_flash.c:31:17:AlignUp	1
+../stm_bootloader/Src/bl_flash.c:36:6:Flash_Erase_App	7
+../stm_bootloader/Src/bl_flash.c:64:6:Flash_Program	1
+../stm_bootloader/Src/bl_flash.c:69:6:Flash_Write_Header	1
+../stm_bootloader/Src/bl_flash.c:76:6:Flash_Erase_Partition	3
+../stm_bootloader/Src/bl_flash.c:99:6:Flash_Copy_Partition	5
+../stm_bootloader/Src/bl_flash.c:130:6:Flash_Verify_Partition_CRC	1
