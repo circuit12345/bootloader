@@ -1,4 +1,4 @@
 [submodule "stm_bootloader"]
 	path = stm_bootloader
-	url = https://gitlab.nesh.live/ivi/c2cbootloader.git
+	url = https://github.com/circuit12345/bootloader.git
 	branch = stm_bootloader
